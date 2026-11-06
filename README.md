@@ -68,6 +68,9 @@ Também sou fundador da [Mundo Digital](https://sistemas-digitais-neon.vercel.ap
 | **NetPulse MDM** | Gestão de dispositivos Android corporativos | Node.js, Express, Google AMAPI |
 | **Plataforma para imobiliária** | Site de imóveis com painel administrativo | React, Vite, Tailwind |
 | **Gesso Express** | Site comercial com foco em conversão e SEO | React, Vite, Tailwind |
+| **Robô PMS** | Robôs que extraem relatórios do PMS do resort (em desenvolvimento) | Playwright, TypeScript, Node.js |
+| **Análises executivas** | Apresentações e análises com dados da operação | Análise de dados |
+| **Mundo Digital** | Minha empresa de sites, aplicativos e automações | [sistemas-digitais-neon.vercel.app](https://sistemas-digitais-neon.vercel.app) |
 
 ---
 
